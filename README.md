@@ -1,4 +1,11 @@
-### Hi there 👋
+### I'm kooroot 👋
+
+
+- [👨‍💻 My projects](https://github.com/kooroot?tab=repositories)
+- [📫 My Portfolio](https://kooroot.oopy.io/)
+- [🌱 My Linktree](https://linktr.ee/kooroot)
+
+
 
 <!--
 **kooroot/kooroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
