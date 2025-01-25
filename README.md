@@ -11,12 +11,6 @@ I am a passionate researcher and engineer specializing in blockchain. My main re
 ## 🎓 Thesis
 - **Analysis of Rollup Optimization Strategies for Reducing Operational Costs in Optimistic Rollup-Based Layer 2 Networks** [Detail](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003147951)
 
-## 🌟 Projects
-1. **[Project Name]**
-   - Description: [Brief description of the project].
-   - Tech Stack: [List technologies].
-   - [View Project](https://github.com/username/project-link)
-
 ## More References
 - [👨‍💻 My projects](https://github.com/kooroot?tab=repositories)
 - [📫 My Portfolio](https://kooroot.github.io/)
@@ -24,6 +18,13 @@ I am a passionate researcher and engineer specializing in blockchain. My main re
 
 
 <!--
+
+## 🌟 Projects
+1. **[Project Name]**
+   - Description: [Brief description of the project].
+   - Tech Stack: [List technologies].
+   - [View Project](https://github.com/username/project-link)
+
 **kooroot/kooroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
