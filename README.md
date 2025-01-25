@@ -1,10 +1,26 @@
-### I'm kooroot 👋
+# I'm kooroot 👋🌴
 
+## 💡 About Me
+I am a passionate researcher and engineer specializing in blockchain. My main research focus is on Ethereum Layer 2. I enjoy learning various technologies related to Solana and other blockchains. I'm interested in validating nodes.
 
+## 🛠 Skills
+- **Programming Languages**: Python, Solidity, Rust, Go, JavaScript
+- **Blockchain Tools**: Dune Analytics, Nansen, Foundry, Anchor
+- **Others**: Docker, Git
+
+## 🎓 Thesis
+- **Analysis of Rollup Optimization Strategies for Reducing Operational Costs in Optimistic Rollup-Based Layer 2 Networks** [Detail](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003147951)
+
+## 🌟 Projects
+1. **[Project Name]**
+   - Description: [Brief description of the project].
+   - Tech Stack: [List technologies].
+   - [View Project](https://github.com/username/project-link)
+
+## More References
 - [👨‍💻 My projects](https://github.com/kooroot?tab=repositories)
-- [📫 My Portfolio](https://kooroot.oopy.io/)
+- [📫 My Portfolio](https://kooroot.github.io/)
 - [🌱 My Linktree](https://linktr.ee/kooroot)
-
 
 
 <!--
