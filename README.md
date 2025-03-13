@@ -4,7 +4,7 @@
 I am a passionate researcher and engineer specializing in blockchain. My main research focus is on Ethereum Layer 2. I enjoy learning various technologies related to Solana and other blockchains. I'm interested in validating nodes.
 
 ## 🛠 Skills
-- **Programming Languages**: Python, Solidity, Rust, Go, JavaScript
+- **Programming Languages**: Python, Solidity, Rust, Go, TypeScript
 - **Blockchain Tools**: Dune Analytics, Nansen, Foundry, Anchor
 - **Others**: Docker, Git
 
