@@ -1,7 +1,7 @@
 # I'm kooroot 👋🌴
 
 ## 💡 About Me
-I am a passionate researcher and engineer specializing in blockchain. My main research focus is on Ethereum Layer 2. I enjoy learning various technologies related to Solana and other blockchains. I'm interested in validating nodes and develop with go & rust.
+I am a passionate researcher and engineer specializing in blockchain. My main research focus is on Ethereum Layer 2. I enjoy learning various technologies related to Solana and other blockchains. I'm interested in validating nodes and developing.
 
 ## 🛠 Skills
 - **Programming Languages**: Python, Solidity, Rust, Go, TypeScript
